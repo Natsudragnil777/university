@@ -1,4 +1,4 @@
-package exo7;
+
 
 public class Model {
     String name;

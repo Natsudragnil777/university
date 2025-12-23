@@ -1,4 +1,4 @@
-package exo7;
+
 
 public class Person {
 String firstName;
@@ -23,11 +23,6 @@ public void update(String firstName, String lastName, int age, int adress){
 public void displayAddInfo(){
     System.out.println("first name :" + firstName + "  last name :" + lastName + "   age : " + age + "    adress" + adress );
 }
-
-
-
-
-
 
 
 }

@@ -1,4 +1,4 @@
-package exo7;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -7,8 +7,8 @@ public class Main {
         p.displayInfo();
         f.displayInfo();
 
-        p.firstName = "saif";
-        p.lastName = "boubndira";
+        p.firstName = "natsu";
+        p.lastName = "dragnil";
         p.age = 19;
         p.displayInfo();
 
@@ -18,8 +18,6 @@ public class Main {
         t.lastName = "anyname";
         t.model = "poo";
         t.displayInfo();
-
-
 
     }
 

@@ -1,4 +1,3 @@
-package exo7;
 
 public class Teacher {
 String firstName;
@@ -8,6 +7,5 @@ String model;
 public void displayInfo(){
     System.out.println("first name :" + firstName + "   last name :" + lastName + "   model : " + model );
 }
-
 
 }
