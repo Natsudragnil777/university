@@ -1,0 +1,22 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore build directories
+bin/
+out/
+build/
+
+# Ignore IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Logs and system files
+*.log
+.DS_Store
+
+# Maven / Gradle
+target/
+.gradle/
