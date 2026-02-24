@@ -1,0 +1,12 @@
+
+                 #
+               # # #
+             # # # # #
+Welcome to TryHackMe!
+TryHackMe is an online platform for learning cybersecurity.
+It provides hands-on labs, challenges, and guided paths.
+Whether you are a beginner or experienced, you can improve your skills here.
+Start your cybersecurity journey today and explore real-world scenarios!
+             # # # # #
+               # # #
+                 #
